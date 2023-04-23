@@ -1,2 +1,12 @@
 fastapi==0.94.1
 uvicorn==0.21.1
+asyncpg==0.27.0
+tortoise-orm==0.19.3
+aerich==0.7.1
+httpx==0.23.3
+pytest==7.2.2
+gunicorn==20.1.0
+pytest-cov==4.0.0
+flake8==6.0.0
+black==23.1.0
+isort==5.12.0
